@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmploymentBureau", "EmploymentBureau\EmploymentBureau.csproj", "{938B35AE-E87B-436A-B827-653636E2C48A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmploymentBureau.DataAccess", "EmploymentBureau.DataAccess\EmploymentBureau.DataAccess.csproj", "{7E8DFEF5-5315-4604-A951-51BD6FF88A1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{938B35AE-E87B-436A-B827-653636E2C48A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938B35AE-E87B-436A-B827-653636E2C48A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938B35AE-E87B-436A-B827-653636E2C48A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938B35AE-E87B-436A-B827-653636E2C48A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8DFEF5-5315-4604-A951-51BD6FF88A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8DFEF5-5315-4604-A951-51BD6FF88A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8DFEF5-5315-4604-A951-51BD6FF88A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8DFEF5-5315-4604-A951-51BD6FF88A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
