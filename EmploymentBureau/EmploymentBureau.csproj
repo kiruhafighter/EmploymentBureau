@@ -12,7 +12,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Controllers\" />
+      <ProjectReference Include="..\EmploymentBureau.DataAccess\EmploymentBureau.DataAccess.csproj" />
     </ItemGroup>
 
 </Project>
